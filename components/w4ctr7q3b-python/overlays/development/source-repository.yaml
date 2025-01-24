@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w4ctr7q3b-python-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/w4ctr7q3b-python
